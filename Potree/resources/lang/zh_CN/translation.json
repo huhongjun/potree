@@ -1,0 +1,90 @@
+{
+    "tb": {
+        "navigation_opt": "导航",
+        "rendering_opt": "显示",
+        "tools_opt": "工具",
+        "measurments_opt": "测量",
+        "clipping_opt": "裁剪",
+        "annotations_opt": "标注",
+        "materials_opt": "材质",
+        "scene_opt": "场景",
+        "classification_filter_opt": "分类过滤",
+        "parameters_opt": "其它设置",
+        "about_opt": "关于"
+    },
+    "tt": {
+        "angle_measurement": "角度",
+        "point_measurement": "点",
+        "distance_measurement": "距离",
+        "height_measurement": "高度",
+        "area_measurement": "面积",
+        "volume_measurement": "体积",
+        "height_profile": "高度剖面",
+        "clip_volume": "立方体",
+        "clip_polygon": "多边形",
+        "clip_plane_x": "球体X轴",
+        "clip_plane_y": "球体Y轴",
+        "clip_plane_z": "球体Z轴",
+        "remove_all_measurement": "清除所有测量",
+        "left_view_control": "左视图",
+        "front_view_control": "前视图",
+        "top_view_control": "顶视图",
+        "focus_control": "全部显示",
+        "orbit_control": "旋转控制",
+        "flight_control": "飞行控制",
+        "earth_control": "球型控制",
+        "perspective_camera_control": "透视图相机",
+        "orthographic_camera_control": "正交投影相机",
+        "navigation_cube_control": "导航立方体",
+        "remove_all_clipping_volumes": "清除所有裁剪体"
+    },
+    "appearance": {
+        "nb_max_pts": "最大点数", 
+        "point_size": "点大小",
+        "point_opacity": "透明度",
+        "field_view": "视野",
+        "point_size_type": "点大小",
+        "point_material": "材质",
+        "elevation_range": "高程区间",
+        "point_quality": "质量",
+        "point_shape": "点样式",
+        "edl_title":"EDL",
+        "edl_radius": "半径",
+        "edl_strength": "强度",
+        "edl_enable": "启用",
+        "min_node_size": "最小节点大小",
+        "clip_mode": "裁剪模式",
+        "move_speed": "移动速度",
+        "skybox": "天空",
+        "bottom_lock": "保持在地面上",
+        "box": "盒子",
+        "length_unit": "长度单位",
+        "freeze": "锁定视图",
+        "language": "语言"
+    },
+	"measurements": {
+		"clip": "裁剪",
+		"show": "显示立体"
+	},
+    "clipping": {
+        "clip": "clip",
+        "show": "show volume"
+    },    
+	"annotations": {
+		"show3D": "3D显示",
+		"showMap": "显示地图"
+    }, 
+	"profile": {
+        "nb_points": "点数",
+        "title": "高程剖面",
+        "save_las": "保存LAS(3D)",
+        "save_ortho": "保存CSV(2D)"
+    },
+	"scene": {
+		"camera_position": "相机位置",
+		"camera_target": "相机目标"
+	},
+    "settings": {
+        "language": "语言"
+    }
+}
